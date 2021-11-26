@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Hi there, I'm Luis
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/luismonzon46091?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/luismonzon46091?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%luismonzon46091&screen_name=luismonzon46091)
 
 ## I'm a Developer!!
 
