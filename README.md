@@ -56,14 +56,7 @@ You can click the Preview link to take a look at your changes.
 5. 🎉 Merged PR [#10](https://github.com/codeSTACKr/free-developer-resources/pull/10) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
 <!--END_SECTION:activity-->
 
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
   <img align="left" alt="Luis's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Luis4609&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://github.com/Luis4609
 [chat-app]: https://github.com/Luis4609/Chat-App
