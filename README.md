@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 ## I'm a Developer!!
 
-- 🔭 I just launched my first php webapp: [Become A VS Code SuperHero!][course]!
+- 🔭 I just launched my first php webapp: [Become A VS Code SuperHero!][chat-app]!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Contribute more to Open Source projects
 
@@ -103,7 +103,7 @@ You can click the Preview link to take a look at your changes.
 </details>
 
 [website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
+[chat-app]: https://github.com/Luis4609/Chat-App
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
