@@ -31,9 +31,6 @@ You can click the Preview link to take a look at your changes.
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![MySQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
-<br />
-<br />
-
 ---
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Luis4609&count_private=true&show_icons=true&include_all_commits=true)
