@@ -6,6 +6,7 @@ You can click the Preview link to take a look at your changes.
 ### Hi there, I'm Luis
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/luismonzon46091?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=luismonzon46091)
+[![GitHub Luis](https://img.shields.io/github/followers/Luis4609?label=follow&style=social)](https://github.com/Luis4609)
 
 ## I'm a Developer!!
 
@@ -20,8 +21,6 @@ You can click the Preview link to take a look at your changes.
 [<img align="left" alt="Luis4609 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
-
-### Languages and Tools:
 
 ### Languages
 
@@ -39,13 +38,13 @@ You can click the Preview link to take a look at your changes.
 
   <img align="left" alt="Luis's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Luis4609&show_icons=true&hide_border=true" />
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Luis4609&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luis4609&hide=TeX&layout=compact)
+
+
 [website]: https://github.com/Luis4609
 [chat-app]: https://github.com/Luis4609/Chat-App
 [twitter]: https://twitter.com/luismonzon46091
-[youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://www.instagram.com/luism4609/
 [linkedin]: https://www.linkedin.com/in/luis-monzon-pedreira-174b13133/
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+
