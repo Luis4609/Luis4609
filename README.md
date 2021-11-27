@@ -2,12 +2,6 @@
 Luis4609/Luis4609 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-### Hi there, I'm Luis
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/luismonzon46091?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=luismonzon46091)
-[![GitHub Luis](https://img.shields.io/github/followers/Luis4609?style=for-the-badge)](https://github.com/Luis4609)
-
 ## I'm a Developer!!
 
 - 🔭 I just launched my first php webapp: [Chat-App!][chat-app]
