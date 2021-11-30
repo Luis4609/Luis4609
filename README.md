@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 
 [website]: https://github.com/Luis4609
 [chat-app]: https://github.com/Luis4609/Chat-App
-[twitter]: https://twitter.com/luismonzon46091
+[twitter]: https://twitter.com/LuisMon4609
 [instagram]: https://www.instagram.com/luism4609/
 [linkedin]: https://www.linkedin.com/in/luis-monzon-pedreira-174b13133/
 
