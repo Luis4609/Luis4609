@@ -14,6 +14,9 @@ You can click the Preview link to take a look at your changes.
 [<img align="left" alt="Luis4609 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Luis4609 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+[![Gmail Badge](https://img.shields.io/badge/-luismonzon4609@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luismonzon4609@gmail.com)](mailto:luismonzon4609@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-luism4609-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/luism4609/)](https://instagram.com/luism4609)
+
 <br />
 
 ### Languages
