@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I just launched my first php webapp: [Chat-App!][chat-app]
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Learn more about Php(Symfony) and JavaScript(React)
+- 🥅 2022 Goals: Learn more about JavaScript(React and Nextjs) and Web3
 
 ### Connect with me:
 
