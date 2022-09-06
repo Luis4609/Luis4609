@@ -21,11 +21,11 @@ You can click the Preview link to take a look at your changes.
 
 ### Languages
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,react,nextjs,vercel,materialui,nodejs,express,java,spring,php,symfony,apollo,jquery,jest )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,react,nextjs,materialui,nodejs,express,java,spring,php,symfony,apollo,jquery,jest )](https://skillicons.dev)
 
 ### Tools
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,docker,kubernetes,aws,git,vscode,idea,jenkins,maven,prometheus,stackoverflow,supabase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,docker,kubernetes,vercel,aws,git,vscode,idea,jenkins,maven,prometheus,stackoverflow,supabase)](https://skillicons.dev)
 
 ---
 
