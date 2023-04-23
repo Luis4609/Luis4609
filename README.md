@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Languages
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,react,nextjs,materialui,nodejs,express,java,spring,php,symfony,apollo,jquery,jest )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,js,ts,html,css,react,nextjs,materialui,php,symfony,apollo)](https://skillicons.dev)
 
 ### Tools
 
