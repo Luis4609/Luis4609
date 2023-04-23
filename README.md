@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Tools
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,docker,kubernetes,vercel,aws,git,vscode,idea,jenkins,maven,prometheus,stackoverflow,supabase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,git,maven,mysql,docker,kubernetes,vercel,jenkins,prometheus,grafana,aws)](https://skillicons.dev)
 
 ---
 
