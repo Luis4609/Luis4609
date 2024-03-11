@@ -7,7 +7,8 @@ You can click the Preview link to take a look at your changes.
 - 🔭 I just launched my first php webapp: [Chat-App!][chat-app]
 - 🌱 I’m currently learning BackEnd development im the Java world
 - 🥅 2022 Goals: Learn more about JavaScript(React and Nextjs) and Web3
-- 🥅 2023 Goals: Learn more about Java, get the Spring certification
+- 🥅 2023 Goals: Learn more about Java, design patterns and software architecture
+- 🥅 2024 Goals: Learning Astro, get the Spring certification
 
 ### Connect with me:
 
