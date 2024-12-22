@@ -1,14 +1,43 @@
-<!---
-Luis4609/Luis4609 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-## I'm a Developer!!
+# **Luis Monzón - Software Engineer**
 
-- 🔭 I just launched my first php webapp: [Chat-App!][chat-app]
-- 🌱 I’m currently learning BackEnd development im the Java world
-- 🥅 2022 Goals: Learn more about JavaScript(React and Nextjs) and Web3
-- 🥅 2023 Goals: Learn more about Java, design patterns and software architecture
-- 🥅 2024 Goals: Learning Astro, get the Spring certification, and start learning Python
+Welcome to my GitHub profile! I am passionate about building scalable, impactful applications and constantly learning new technologies. Below, you can find more about my current projects and professional goals.
+
+---
+
+## 🚀 **Current Focus**
+- Backend development in **Java**, using **Spring Boot** and related technologies.
+- Exploring **modern frontend frameworks** like React and Astro.
+- Enhancing my knowledge in **design patterns** and **software architecture**.
+
+---
+
+## 🎯 **Goals**
+### 2024 Goals  
+- Earn the **Spring Professional Certification**.  
+- Start learning **Python** and explore its application in data analysis and machine learning.  
+- Dive deeper into **Astro** for building static and dynamic websites.
+
+### Long-term Goals  
+- Master **software design patterns** and **system architecture** to contribute to high-scale applications.  
+- Work on impactful projects in areas like **Search Quality**, **Large Language Models**, and **Personalization Systems**.
+
+---
+## 🛠️ **Technologies & Tools**  
+- **Backend:** Java, Spring Boot, SQL, MongoDB, PHP, Symfony.  
+- **Frontend:** React, Astro, HTML5, CSS3, JavaScript.  
+- **Version Control & CI/CD:** Git, GitHub, Docker.  
+- **Tools:** Sourcetree, Postman, VS Code.  
+
+---
+## 🌟 **Highlighted Projects**
+- **[Chat-App](https://github.com/Luis4609/Chat-App):** A secure messaging application built with PHP, focusing on real-time communication.  
+- **[Symfony Message-App](https://github.com/Luis4609/Symfony-Chat-App):** A modular Symfony-based messaging app.  
+- **[Hotel Management System](https://github.com/IngSoft1920/cm/):** A full-stack solution for hotel management, integrating real-time analytics and administrative tools.  
+- **Quality Dashboard:** A monitoring dashboard for call center metrics, improving reporting efficiency by 30%.  
+
+---
+
+Feel free to explore my repositories, and don’t hesitate to connect if you'd like to collaborate or discuss any project ideas!
 
 ### Connect with me:
 
