@@ -26,14 +26,7 @@ Welcome to my GitHub profile! I am passionate about building scalable, impactful
 - **Backend:** Java, Spring Boot, SQL, MongoDB, PHP, Symfony.  
 - **Frontend:** React, Astro, HTML5, CSS3, JavaScript.  
 - **Version Control & CI/CD:** Git, GitHub, Docker.  
-- **Tools:** Sourcetree, Postman, VS Code.  
-
----
-## 🌟 **Highlighted Projects**
-- **[Chat-App](https://github.com/Luis4609/Chat-App):** A secure messaging application built with PHP, focusing on real-time communication.  
-- **[Symfony Message-App](https://github.com/Luis4609/Symfony-Chat-App):** A modular Symfony-based messaging app.  
-- **[Hotel Management System](https://github.com/IngSoft1920/cm/):** A full-stack solution for hotel management, integrating real-time analytics and administrative tools.  
-- **Quality Dashboard:** A monitoring dashboard for call center metrics, improving reporting efficiency by 30%.  
+- **Tools:** Sourcetree, Postman, VS Code.
 
 ---
 
