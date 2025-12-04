@@ -6,14 +6,12 @@ Welcome to my GitHub profile! I am passionate about building scalable, impactful
 
 ## 🚀 **Current Focus**
 - Backend development in **Java**, using **Spring Boot** and related technologies.
-- Exploring **modern frontend frameworks** like React and Astro.
 - Enhancing my knowledge in **design patterns** and **software architecture**.
-
+- Exploring **modern frontend frameworks** like React and Astro.
 ---
 
 ## 🎯 **Goals**
-### 2024 Goals  
-- Earn the **Spring Professional Certification**.  
+### 2026 Goals   
 - Start learning **Python** and explore its application in data analysis and machine learning.  
 - Dive deeper into **Astro** for building static and dynamic websites.
 
