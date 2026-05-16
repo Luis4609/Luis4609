@@ -12,8 +12,7 @@ Welcome to my GitHub profile! I am passionate about building scalable, impactful
 
 ## 🎯 **Goals**
 ### 2026 Goals   
-- Start learning **Python** and explore its application in data analysis and machine learning.  
-- Dive deeper into **Astro** for building static and dynamic websites.
+- 
 
 ### Long-term Goals  
 - Master **software design patterns** and **system architecture** to contribute to high-scale applications.  
