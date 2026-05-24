@@ -49,10 +49,6 @@ Feel free to explore my repositories, and don’t hesitate to connect if you'd l
 
 ---
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Luis4609&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luis4609&hide=TeX&layout=compact)
-
-
 [website]: https://github.com/Luis4609
 [chat-app]: https://github.com/Luis4609/Chat-App
 [twitter]: https://twitter.com/LuisMon4609
